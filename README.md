@@ -16,9 +16,9 @@
 
 ---
 
-[<img src="figs/C1.png" height="210px"/>](https://imgsli.com/MjIyMjk5)   <img src="figs/C2.png" height="210px"/>   [<img src="figs/C3.png" height="210px"/>](https://imgsli.com/MjIyMzEw)   [<img src="figs/C4.png" height="210px"/>](https://imgsli.com/MjIyMzA4)
+[<img src="figs/C1.png" height="214"/>](https://imgsli.com/MjIyMjk5)[<img src="figs/C2.png" height="214"/>](https://imgsli.com/MjIyMzAy)[<img src="figs/C3.png" height="214"/>](https://imgsli.com/MjIyMzEw)[<img src="figs/C4.png" height="214"/>](https://imgsli.com/MjIyMzA4)
 
-[<img src="figs/C5.png" height="247px"/>](https://imgsli.com/MjIyMzA0) [<img src="figs/C6.png" height="247px"/>](https://imgsli.com/MjIyMzAw) [<img src="figs/C7.png" height="247px"/>](https://imgsli.com/MjIyMjk3)
+[<img src="figs/C5.png" height="213"/>](https://imgsli.com/MjIyMzA0)[<img src="figs/C6.png" height="213"/>](https://imgsli.com/MjIyMzAw)[<img src="figs/C7.png" height="213"/>](https://imgsli.com/MjIyMjk3)
 
 ---
 
