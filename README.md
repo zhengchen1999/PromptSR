@@ -16,16 +16,16 @@
 
 ---
 
-[<img src="figs/C1.png" height="204px"/>](https://imgsli.com/MjIyMjk5) [<img src="figs/C2.png" height="204px"/>](https://imgsli.com/MjIyMzAy) [<img src="figs/C3.png" height="204px"/>](https://imgsli.com/MjIyMzEw) [<img src="figs/C4.png" height="204px"/>](https://imgsli.com/MjIyMzA4)
+[<img src="figs/C1.png" height="247px"/>](https://imgsli.com/MjIyMjk5) <img src="figs/C2.png" height="247px"/> [<img src="figs/C3.png" height="247px"/>](https://imgsli.com/MjIyMzEw) [<img src="figs/C4.png" height="247px"/>](https://imgsli.com/MjIyMzA4)
 
-[<img src="figs/C5.png" height="204px"/>](https://imgsli.com/MjIyMzA0) [<img src="figs/C6.png" height="204px"/>](https://imgsli.com/MjIyMzAw) [<img src="figs/C7.png" height="204px"/>](https://imgsli.com/MjIyMjk3)
+[<img src="figs/C5.png" height="247px"/>](https://imgsli.com/MjIyMzA0) [<img src="figs/C6.png" height="247px"/>](https://imgsli.com/MjIyMzAw) [<img src="figs/C7.png" height="247px"/>](https://imgsli.com/MjIyMjk3)
 
 ---
 
-|                      LR                      |               Prompt: Light Noise               |               Prompt: Heavy Noise               |
-| :------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
-| <img src="figs/ComS_frog_BI.png" height=100> | <img src="figs/ComS_frog_Light.png" height=100> | <img src="figs/ComS_frog_Heavy.png" height=100> |
-| <img src="figs/ComS_dog_BI.png" height=100>  | <img src="figs/ComS_dog_Light.png" height=100>  | <img src="figs/ComS_dog_Heavy.png" height=100>  |
+|                      LR                      |                   Bicubic                    |             Prompt: [*Light Noise*]             |             Prompt: [*Heavy Noise*]             |
+| :------------------------------------------: | :------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
+| <img src="figs/ComL_frog_BI.png" height=100> | <img src="figs/ComS_frog_BI.png" height=100> | <img src="figs/ComS_frog_Light.png" height=100> | <img src="figs/ComS_frog_Heavy.png" height=100> |
+| <img src="figs/ComL_dog_BI.png" height=100>  | <img src="figs/ComS_dog_BI.png" height=100>  | <img src="figs/ComS_dog_Light.png" height=100>  | <img src="figs/ComS_dog_Heavy.png" height=100>  |
 
 ## ⚒️ TODO
 
