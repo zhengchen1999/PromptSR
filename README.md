@@ -16,7 +16,16 @@
 
 ---
 
-[<img src="figs/C1.png" height="230px"/>](https://imgsli.com/MjIyMjk5)[<img src="figs/C2.png" height="230px"/>](https://imgsli.com/MjIyMzAy)[<img src="figs/C3.png" height="230px"/>](https://imgsli.com/MjIyMzEw)[<img src="figs/C4.png" height="230px"/>](https://imgsli.com/MjIyMzA0)[<img src="figs/C5.png" height="230px"/>](https://imgsli.com/MjIyMzAw)[<img src="figs/C6.png" height="230px"/>](https://imgsli.com/MjIyMzA4)[<img src="figs/C7.png" height="230px"/>](https://imgsli.com/MjIyMjk3)[<img src="figs/C8.png" height="230px"/>](https://imgsli.com/MjIyMzAz)
+[<img src="figs/C1.png" height="204px"/>](https://imgsli.com/MjIyMjk5) [<img src="figs/C2.png" height="204px"/>](https://imgsli.com/MjIyMzAy) [<img src="figs/C3.png" height="204px"/>](https://imgsli.com/MjIyMzEw) [<img src="figs/C4.png" height="204px"/>](https://imgsli.com/MjIyMzA4)
+
+[<img src="figs/C5.png" height="204px"/>](https://imgsli.com/MjIyMzA0) [<img src="figs/C6.png" height="204px"/>](https://imgsli.com/MjIyMzAw) [<img src="figs/C7.png" height="204px"/>](https://imgsli.com/MjIyMjk3)
+
+---
+
+|                      LR                      |               Prompt: Light Noise               |               Prompt: Heavy Noise               |
+| :------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
+| <img src="figs/ComS_frog_BI.png" height=100> | <img src="figs/ComS_frog_Light.png" height=100> | <img src="figs/ComS_frog_Heavy.png" height=100> |
+| <img src="figs/ComS_dog_BI.png" height=100>  | <img src="figs/ComS_dog_Light.png" height=100>  | <img src="figs/ComS_dog_Heavy.png" height=100>  |
 
 ## ⚒️ TODO
 
@@ -86,7 +95,7 @@ We achieved state-of-the-art performance on synthetic and real-world blur datase
 If you find the code helpful in your resarch or work, please cite the following paper(s).
 
 ```
-@article{,
+@article{chen2023image,
   title={Image Super-Resolution with Text Prompt Diffusion},
   author={Chen, Zheng and Zhang, Yulun and Gu, Jinjin and Yuan, Xin and Kong, Linghe and Chen, Guihai and Yang, Xiaokang},
   journal={},
