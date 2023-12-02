@@ -1,5 +1,6 @@
 <div align="center">
 <p align="center"> <img src="figs/logo.png" width="200px"> </p>
+</div>
 
 
 
