@@ -1,4 +1,5 @@
-<div style="text-align:center;"><img src="figs/logo.png" style="width:250px;" /></div>
+<div align="center">
+<p align="center"> <img src="figs/logo.png" width="200px"> </p>
 
 # Image Super-Resolution with Text Prompt Diffusion
 
