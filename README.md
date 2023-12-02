@@ -1,6 +1,6 @@
-<img src="figs/logo.png" style="width:250px;" />
+<div style="text-align:center;"><img src="figs/logo.png" style="width:250px;" /></div>
 
-## Image Super-Resolution with Text Prompt Diffusion
+# Image Super-Resolution with Text Prompt Diffusion
 
 [Zheng Chen](https://zhengchen1999.github.io/), [Yulun Zhang](http://yulunzhang.com/), [Jinjin Gu](https://www.jasongt.com/), [Xin Yuan](https://en.westlake.edu.cn/faculty/xin-yuan.html), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), [Guihai Chen](https://cs.nju.edu.cn/gchen/index.htm), and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ), "Image Super-Resolution with Text Prompt Diffusion", arXiv, 2023
 
