@@ -14,7 +14,7 @@
 
 ---
 
-> **Abstract:** Image super-resolution (SR) methods typically model degradation to improve reconstruction accuracy in complex and unknown degradation scenarios. However, extracting degradation information from low-resolution images is challenging, which limits the model performance. To boost image SR performance, one feasible approach is to introduce additional priors. Inspired by advancements in multi-modal methods and text prompt image processing, we introduce text prompts to image SR to provide degradation priors. Specifically, we first design a text-image generation pipeline to integrate text into SR dataset through the text degradation representation and degradation model. The text representation applies a discretization manner based on the binning method to describe the degradation abstractly. This representation method can also maintain the flexibility of language. Meanwhile, we propose the PromptSR to realize the text prompt SR. The PromptSR employs the diffusion model and the pre-trained language model (*e.g.*, T5 and CLIP). We train the model on the generated text-image dataset. Extensive experiments indicate that introducing text prompts into image SR, yields excellent results on both synthetic and real-world images.
+> **Abstract:** Image super-resolution (SR) methods typically model degradation to improve reconstruction accuracy in complex and unknown degradation scenarios. However, extracting degradation information from low-resolution images is challenging, which limits the model performance. To boost image SR performance, one feasible approach is to introduce additional priors. Inspired by advancements in multi-modal methods and text prompt image processing, we introduce text prompts to image SR to provide degradation priors. Specifically, we first design a text-image generation pipeline to integrate text into the SR dataset through the text degradation representation and degradation model. The text representation applies a discretization manner based on the binning method to describe the degradation abstractly. This method maintains the flexibility of the text and is user-friendly. Meanwhile, we propose the PromptSR to realize the text prompt SR. The PromptSR utilizes the pre-trained language model (*e.g.*, T5 or CLIP) to enhance restoration. We train the model on the generated text-image dataset. Extensive experiments indicate that introducing text prompts into SR, yields excellent results on both synthetic and real-world images.
 
 ![](figs/PromptSR.png)
 
@@ -54,7 +54,7 @@ We achieved state-of-the-art performance on synthetic and real-world blur datase
 
 
 
-- quantitative comparisons in Table 4 of the main paper
+- quantitative comparisons in Table 5 of the main paper
 
 <p align="center">
   <img width="900" src="figs/T1.png">
@@ -62,7 +62,7 @@ We achieved state-of-the-art performance on synthetic and real-world blur datase
 
 
 
-- visual comparison in Figure 5 of the main paper
+- visual comparison in Figure 6 of the main paper
 
 <p align="center">
   <img width="900" src="figs/F1.png">
@@ -74,14 +74,14 @@ We achieved state-of-the-art performance on synthetic and real-world blur datase
 
 
 
-- quantitative comparisons in Table 5 of the main paper
+- quantitative comparisons in Table 6 of the main paper
 
 <p align="center">
   <img width="900" src="figs/T2.png">
 </p>
 
 
-- visual comparison in Figure 6 of the main paper
+- visual comparison in Figure 7 of the main paper
 
 <p align="center">
   <img width="900" src="figs/F2.png">
