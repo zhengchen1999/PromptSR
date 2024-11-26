@@ -47,14 +47,14 @@
 
 ## <a name="results"></a>🔎 Results
 
-We achieved state-of-the-art performance on synthetic and real-world blur dataset. Detailed results can be found in the paper.
+We achieved state-of-the-art performance on synthetic and real-world dataset. Detailed results can be found in the paper.
 
 <details>
 <summary>Evaluation on Synthetic Datasets (click to expand)</summary>
 
 
 
-- quantitative comparisons in Table 5 of the main paper
+- quantitative comparison
 
 <p align="center">
   <img width="900" src="figs/T1.png">
@@ -62,7 +62,7 @@ We achieved state-of-the-art performance on synthetic and real-world blur datase
 
 
 
-- visual comparison in Figure 6 of the main paper
+- visual comparison
 
 <p align="center">
   <img width="900" src="figs/F1.png">
@@ -74,14 +74,14 @@ We achieved state-of-the-art performance on synthetic and real-world blur datase
 
 
 
-- quantitative comparisons in Table 6 of the main paper
+- quantitative comparison
 
 <p align="center">
   <img width="900" src="figs/T2.png">
 </p>
 
 
-- visual comparison in Figure 7 of the main paper
+- visual comparison
 
 <p align="center">
   <img width="900" src="figs/F2.png">
