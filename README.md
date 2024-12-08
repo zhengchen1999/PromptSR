@@ -91,7 +91,7 @@ We achieve state-of-the-art performance on synthetic and real-world dataset. Det
 
 ## <a name="citation"></a>📎 Citation
 
-If you find the code helpful in your resarch or work, please cite the following paper(s).
+If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
 @article{chen2023image,
