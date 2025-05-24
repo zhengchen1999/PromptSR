@@ -42,7 +42,6 @@
 1. Training
 1. Testing
 1. [Results](#results)
-1. [Citation](#citation)
 1. [Acknowledgements](#acknowledgements)
 
 ## <a name="results"></a>🔎 Results
